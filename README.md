@@ -1,7 +1,6 @@
 # Olá, eu sou a Luísa Cavalhieri!!!
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC Rodrigues de Abreu  
-🌱 Apaixonada por tecnologia
+🎓 Apaixonada por tecnologia
 😄 Pronomes: ela/dela  
 
 ---
