@@ -1,7 +1,9 @@
 # Olá, eu sou a Luísa Cavalhieri!!!
 
 <h5> A imaginação é a faculdade da descoberta. É o que penetra nos mundos invisíveis ao nosso redor. - Ada Lovelace</h5>
-<a>lambent-belekoy-872d23.netlify.app</a>
+<a href="https://lambent-belekoy-872d23.netlify.app" target="_blank">
+  lambent-belekoy-872d23.netlify.app
+</a>
 
 ## 📚 Formação
 
