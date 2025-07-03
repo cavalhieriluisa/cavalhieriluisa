@@ -15,9 +15,6 @@ Curso Técnico em Desenvolvimento de Sistemas
 **Iniciação Científica Júnior – PIBIC Jr. (UNESP)**  
 `2024 – 2025`
 
-**Curso de Inglês- Nível Intermediário**  
-`2019 – 2021`
-
 ---
 
 ## 🛠️ Tecnologias que já utilizei
