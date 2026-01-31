@@ -16,7 +16,7 @@ Curso Técnico em Desenvolvimento de Sistemas
 `2024 – 2025`
 
 **FATEC– Bauru, SP**  
-Análise e Desenvolvimento de Sistemas**
+Análise e Desenvolvimento de Sistemas
 `2026 – 2027`
 
 ---
