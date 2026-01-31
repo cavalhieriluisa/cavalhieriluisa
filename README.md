@@ -15,6 +15,10 @@ Curso Técnico em Desenvolvimento de Sistemas
 **Iniciação Científica Júnior – PIBIC Jr. (UNESP)**  
 `2024 – 2025`
 
+**FATEC– Bauru, SP**  
+Análise e Desenvolvimento de Sistemas 
+`2026 – 2027`
+
 ---
 
 ## 🛠️ Tecnologias que já utilizei
